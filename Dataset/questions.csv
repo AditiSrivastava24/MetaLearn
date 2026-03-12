@@ -1,0 +1,41 @@
+question_id,topic,difficulty,question_text,option_a,option_b,option_c,option_d,correct_answer
+1,algebra,easy,2+3=?,4,5,6,7,B
+2,algebra,easy,5*4=?,10,20,25,30,B
+3,algebra,easy,10-6=?,2,3,4,5,C
+4,algebra,medium,12/3=?,2,3,4,6,C
+5,algebra,medium,3^2=?,6,7,8,9,D
+6,algebra,medium,15-7=?,6,7,8,9,C
+7,algebra,hard,2x=10 find x,3,4,5,6,C
+8,algebra,hard,x+5=9 find x,2,3,4,5,C
+9,algebra,hard,3x=12 find x,2,3,4,5,C
+10,algebra,easy,7+6=?,11,12,13,14,C
+11,geometry,easy,How many sides does a triangle have?,2,3,4,5,B
+12,geometry,easy,Angles of triangle sum to?,90,120,180,360,C
+13,geometry,medium,Area of square with side 4?,12,14,16,18,C
+14,geometry,medium,Perimeter of square side 5?,10,15,20,25,C
+15,geometry,hard,Area of triangle formula?,1/2bh,bh,2bh,b+h,A
+16,algebra,easy,8+5=?,11,12,13,14,C
+17,algebra,easy,9-3=?,5,6,7,8,B
+18,algebra,easy,6*2=?,10,11,12,13,C
+19,algebra,medium,20/4=?,4,5,6,7,B
+20,algebra,medium,4^2=?,14,15,16,18,C
+21,algebra,medium,18-9=?,7,8,9,10,C
+22,algebra,hard,5x=25 find x,3,4,5,6,C
+23,algebra,hard,x-3=7 find x,8,9,10,11,C
+24,algebra,hard,4x=20 find x,3,4,5,6,C
+25,geometry,easy,How many sides does a square have?,3,4,5,6,B
+26,geometry,easy,Angles in a straight line sum to?,90,180,270,360,B
+27,geometry,easy,Number of sides in pentagon?,4,5,6,7,B
+28,geometry,medium,Area of square side 6?,30,32,36,40,C
+29,geometry,medium,Perimeter of rectangle 4 and 6?,16,18,20,22,C
+30,geometry,medium,Area of rectangle 5 and 3?,12,14,15,16,C
+31,geometry,hard,Area of circle formula?,pi*r,r^2,pi*r^2,2*pi*r,C
+32,geometry,hard,Circumference of circle formula?,2*pi*r,pi*r^2,r^2,pi*r,A
+33,arithmetic,easy,10+15=?,20,23,25,27,C
+34,arithmetic,easy,20-8=?,10,11,12,13,C
+35,arithmetic,easy,7*3=?,18,20,21,24,C
+36,arithmetic,medium,36/6=?,4,5,6,7,C
+37,arithmetic,medium,15%5=?,0,2,3,5,A
+38,arithmetic,medium,Square root of 16?,2,3,4,5,C
+39,arithmetic,hard,2^4=?,8,12,16,32,C
+40,arithmetic,hard,3^3=?,6,9,18,27,D
